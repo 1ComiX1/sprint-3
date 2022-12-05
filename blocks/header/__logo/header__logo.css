@@ -1,0 +1,5 @@
+.header__logo {
+  display: flex;
+  justify-self: stretch;
+  max-width: 176px;
+}

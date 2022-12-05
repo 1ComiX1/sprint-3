@@ -1,0 +1,13 @@
+.places__place {
+  display: grid;
+  grid-template-columns: 460px 484px;
+  max-width: 984px;
+  max-height: 660px;
+  justify-content: space-between;
+  grid-template-areas:
+  "title website"
+  "image paragraph"
+  "image paragraph";
+  margin: 0;
+  margin-bottom: 80px;
+}
