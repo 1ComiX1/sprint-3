@@ -10,6 +10,6 @@
   position: relative;
 }
 
-.header__lang-link:nth-child(1) {
+.header__lang-link:nth-child(2) {
   text-decoration: underline;
 }
